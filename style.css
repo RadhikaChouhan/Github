@@ -1,0 +1,28 @@
+ul {
+  list-style-type: square;
+}
+
+ul li {
+  margin: 15px;
+}
+
+body {
+  background-color: #92a8d1;
+  color: white;
+}
+
+header {
+  text-align: center;
+}
+
+a.simple:link {
+  color: red;
+}
+
+a.simple:visited {
+  color: green;
+}
+
+a.simple:hover {
+  color: hotpink;
+}
